@@ -4,6 +4,13 @@ Free software, GPL v3 (see LICENSE). Derived from `x3breakout`, which is GPL v3.
 
 Five tracks, three lanes, three gestures.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="taprhythm title screen with track and sync settings">
+  <img src="images/gameplay.png" width="45%" alt="taprhythm three-lane perspective with notes approaching">
+</p>
+
 ## Why a rhythm game suits these glasses
 
 The temple pad gives exactly three unambiguous inputs — a tap, a swipe one way,
